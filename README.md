@@ -1,7 +1,7 @@
 # Supervised-learning-Classification-Cardiovascular-risk-prediction
 This repository contains code and data for a cardiovascular risk prediction project. The project uses a variety of machine learning models to predict the risk of cardiovascular disease in a population. The data used for the project is from the Framingham Heart Study, which is a long-term study of cardiovascular disease in the United States.
 
-![image](https://github.com/shivanivadlamani/Supervised-learning-Classification-Cardiovascular-risk-prediction/assets/113968903/ea365c61-54a5-4743-8f58-f02d0517b3d5)
+                       ![image](https://github.com/shivanivadlamani/Supervised-learning-Classification-Cardiovascular-risk-prediction/assets/113968903/ea365c61-54a5-4743-8f58-f02d0517b3d5)
 
 
 ### here are the data points:
